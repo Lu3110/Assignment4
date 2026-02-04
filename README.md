@@ -1,1 +1,1 @@
-This challenge focuses on cleaning messy data by normalizing common missing value tokens into NaN analyzing missing value percentages per column and understanding the impact of missing data on machine learning models such as Linear Regression and Neural Networks
+This activity focuses on cleaning missing values by normalizing custom tokens into NaN generating missingness summaries building a dropped rows version and an imputed version with missing indicators and comparing the results between both approaches
